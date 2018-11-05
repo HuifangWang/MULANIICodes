@@ -6,3 +6,6 @@ The MULAN toolbox is written in two program languages: MATLAB and Python. MATLAB
 
 The User Guide is here: https://github.com/HuifangWang/MULANIICodes/blob/master/User_Guide_MULAN2.pdf
 
+The paper reference: 
+Wang, H. E., Friston, K. J., Bénar, C. G., Woodman, M. M., Chauvel, P., Jirsa, V., & Bernard, C. (2018). MULAN: Evaluation and ensemble statistical inference for functional connectivity. NeuroImage. https://doi.org/10.1016/j.neuroimage.2017.10.036
+
